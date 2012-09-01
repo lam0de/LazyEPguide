@@ -1,3 +1,3 @@
 require 'rspec'
 
-require_relative '../lib/lazyepguide/options.rb'
+require_relative '../lib/lazyepguide/finder.rb'

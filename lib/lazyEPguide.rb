@@ -1,4 +1,3 @@
-
 require 'mechanize'
 
 agent = Mechanize.new
